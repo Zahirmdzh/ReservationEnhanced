@@ -126,7 +126,7 @@ public class MainActivity extends AppCompatActivity {
 //                prefEdit.putString("Date",getDate);
 //                prefEdit.putString("Time",getTime);
 
-                prefEdit.commit();
+//                prefEdit.commit();
 
 //                prefEdit.putBoolean(idSmoking,true);
                 if (getName.length() != 0 || getTel.length() != 0 || getSize.length() != 0) {
